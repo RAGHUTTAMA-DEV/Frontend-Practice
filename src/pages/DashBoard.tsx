@@ -114,6 +114,16 @@ export default function DashBoard() {
           </div>
         </Element>
       </div>
+
+      <footer>
+      <div className="flex justify-center items-start bg-black text-white py-4 mt-12">
+        <div className="w-full max-w-5xl px-4">
+        <h2 className="font-bold text-2xl text-left">AI ToolBox</h2>
+        <p className="font-normal text-white ">We help you find the best AI tools & AI agents for you need</p>
+     </div>
+    </div>
+
+      </footer>
     </div>
   );
 }
